@@ -15,9 +15,9 @@ Clone this repository:
 bash
 Copy code:
 
-git clone https://github.com/rituharsh9436/Innotech.git
+git clone https://github.com/harshitagupta9/HeartDiseasePrediction.git
 
-cd Innotech
+cd HeartDiseasePrediction
 
 Install the required dependencies:
 
@@ -37,6 +37,3 @@ Copy code:
 streamlit run app.py
 
 This will start the app and open it in your browser.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
