@@ -1,39 +1,3 @@
-# Innotech
-InnotechGroupProject:
-Overview:
-This project is part of the Innotech school event. The team, Binary Brigade, developed a solution with a focus on Early Diagnose of heart risks. The project combines data analysis, machine learning, and a Streamlit interface to provide a functional and interactive experience.
-Team Name: Binary Brigade
-
-Team Members:
-
-Harsh Bhardwaj (team lead)
-
-Chanchal Sharma
-
-Harshita Gupta
-
-Kuldeep Singh
-
-Contributions:
-Harsh Bhardwaj:
-Data Analysis:
-Performed dataset refinement and updates
-Trained the machine learning model and imported the trained model for use in the application
-
-Harsh,Chanchal, Harshita Gupta, Kuldeep Chaudhary:
-Streamlit Interface:
-Developed the app file and created a user-friendly interface using Streamlit.
-Ensured the app was interactive and easy to navigate.
-
-Harshita & Kuldeep:
-Improvements & Suggestions:
-Suggested improvements in the interface and user experience.
-Provided feedback and fine-tuned the application.
-
-Harsh & Chanchal:
-Interface Upgrade:
-Upgraded the interface for better functionality and design, ensuring a smoother experience for users.
-
 Project Objective:
 takes some inputs from users like age,bmi, smoking habits, sugar and colestrol levels and Predicts the risks of heart diseases
 
